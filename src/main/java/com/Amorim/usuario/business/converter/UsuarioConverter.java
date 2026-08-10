@@ -145,5 +145,4 @@ public class UsuarioConverter {
                 .usuario_id(idUsuario)
                 .build();
     }
-
 }
